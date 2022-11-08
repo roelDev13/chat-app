@@ -1,5 +1,8 @@
 # Chat-App
 
+## Overview
+This is a simple chat application made using React, Node JS, HTML/CSS, and WebSockets. The premise of this project was to learn how to use WebSockets to be able to have interactions in real time with another user, in which a chat application came to mind being that it covers all of the topics mentioned. 
+
 ## Setting Up
 Before starting up the application, open your client and server folders and install all the dependencies by running:
 ```md
